@@ -1,0 +1,16 @@
+[prune]
+  go-tests = true
+  unused-packages = true
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/messagebird/go-rest-api"
+
+[[constraint]]
+  branch = "master"
+  name = "golang.org/x/time"
+
+
+
+
+

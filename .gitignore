@@ -1,0 +1,4 @@
+bin/
+vendor/
+.terraform
+.test_coverage
